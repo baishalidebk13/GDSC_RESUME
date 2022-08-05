@@ -1,6 +1,6 @@
 %-------------------------
 % Resume in Latex
-% Author : Sundorom Das
+% Author : Baishali Deb Kanunjna
 % License : NITS
 %------------------------
 
@@ -128,7 +128,7 @@
 \newcommand{\name}{SUNDOROM DAS} % Your Name
 \newcommand{\course}{B.Tech - 1st year in Electronics and Instrumentation Engineering} % Your Course
 \newcommand{\roll}{2113083} % Your Roll No.
-\newcommand{\phone}{PHONE NO- 7086374604} % Your Phone Number
+\newcommand{\phone}{PHONE NO- 7578097505} % Your Phone Number
 \newcommand{\emaila}{EMAIL:- sundorom21_ug@eie.nits.ac.in} %Email 1
 \newcommand{\github}{https://github.com/sundoromdas11} %Github
 \newcommand{\linkedin}{https://www.linkedin.com/in/baishali-deb-kanunjna-658bba21a } % linkedin 
